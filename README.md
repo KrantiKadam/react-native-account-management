@@ -12,5 +12,11 @@ Account Management App using React Native Version 0.76.0
    cd ios; pod install; cd ..
 4. From root project directory, run following command to run app packager:
    npx react-native start
-5. On packager start press i to install app on simulator
+5. On packager start press *i* to install app on simulator
+
+## Steps to use app:
+1. Create account from first screen
+2. On successful account creation on server, user will be navigated to next screen
+3. Use Get Account button from bottom of screen, to get the account details from server
+4. Use Delete Account button, to delete account from server
    
