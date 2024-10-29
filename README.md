@@ -3,7 +3,7 @@ Account Management App using React Native Version 0.76.0
 
 ## Pre-requisite:
 1. Node version: v20.15.1
-2. Xcode version:15.2
+2. Xcode version: 15.2
 3. Make sure to run account-service(spring-boot app) on local-host first, before using React-Native app
    
 ## Steps to run app:
